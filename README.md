@@ -38,7 +38,7 @@ This Python script fetches procurement publication data from the [TenderNed API]
 2. Run the script:
 
    ```bash
-   python tenderned_fetch.py
+   python run7day.py
    ```
 3. The results will be saved to:
 
